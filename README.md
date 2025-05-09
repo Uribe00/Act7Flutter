@@ -13,32 +13,36 @@ Pantalla 2
 
 Pantalla 3
 
+![image](https://github.com/user-attachments/assets/408509be-af93-4b8f-8c4c-7014a0fddd15)
 
-![image](https://github.com/user-attachments/assets/55cf50e8-c230-4edb-b2fb-0981ab0cc023)
 
 
 Pantall 4
 
 
-![image](https://github.com/user-attachments/assets/36cca942-694c-482a-ae83-ec93242f85db)
+![image](https://github.com/user-attachments/assets/034a488f-ea1e-4c95-a7c7-f5b0347fff0e)
+
 
 
 Pantalla 5
 
 
-![image](https://github.com/user-attachments/assets/6e07b89c-8230-4fdb-9fbd-4987943ac704)
+![image](https://github.com/user-attachments/assets/04b2bbd3-c7db-433b-b89b-726b4de7553b)
+
 
 
 Pantalla 6
 
 
-![image](https://github.com/user-attachments/assets/e46b87e2-fcab-4a0b-9564-6bb3ff735531)
+![image](https://github.com/user-attachments/assets/2f914f0b-f54f-48aa-9674-da48ea53efc3)
+
 
 
 Pantalla 7
 
 
-![image](https://github.com/user-attachments/assets/2e57fe41-6be8-4f95-9285-f7017357e1fb)
+![image](https://github.com/user-attachments/assets/e0bcd2b9-400f-460a-a2f9-8ed339bbd1c5)
+
 
 
 
